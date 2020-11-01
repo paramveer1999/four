@@ -1,0 +1,35 @@
+body,html{
+    margin:0px;
+    padding:0px;
+
+}
+*{
+    box-sizing:border-box;
+}
+.tool-bar{
+    height: 80px;
+    background-color: blue;
+    display: flex;
+}
+.stagno{
+    height: 143px;
+    background-color: red;
+    margin-top: 36px;
+
+}
+.third{
+    height: 66px;
+    background-color: aqua;
+    margin-top: 21px;
+}
+.fourth{
+    height: 199px;
+    background-color: blueviolet;
+    margin-top: 24px;
+}
+.fifth{
+    
+        height: 50px;
+        background-color: brown;
+        margin-top: 15px;
+}
